@@ -1,0 +1,19 @@
+#p{
+    color: sienna;
+    background-color: silver;
+    border: 5px solid red;
+    border-radius: 20px;
+
+}
+.hudai{
+    color: skyblue;
+    background-color: slateblue;
+    text-align: justify;
+    margin: 20px;
+    padding: 15px;
+}
+.hudai h1{
+    color: seagreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
